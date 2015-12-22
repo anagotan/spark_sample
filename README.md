@@ -1,2 +1,2 @@
 # spark_sample
-SparkSample on Amazon EMR
+Spark Sample on Amazon EMR 
